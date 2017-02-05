@@ -37,6 +37,7 @@
     "foundation-sites": "6.2.4-rc1",
     "glob": "^7.0.0",
     "isparta-instrumenter-loader": "^1.0.0",
+    "mapbox-gl": "^0.32.1",
     "minimist": "^1.2.0",
     "node-sass": "^3.4.2",
     "normalize.css": "^4.0.0",
